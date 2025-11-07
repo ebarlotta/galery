@@ -8,7 +8,7 @@
         </h1>
     </div>
 
-    <!-- Carrusel - 85% de la pantalla -->
+    <!-- Carrusel - 85% de la pantalladsadsad -->
     <div class="flex-1 relative bg-gray-800">
         @if(count($images) > 0)
             <!-- Imagen actual -->
